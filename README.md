@@ -47,8 +47,6 @@ This solution gives executives and functional managers a shared analytical layer
 
 ## Project Architecture
 
-![Architecture Placeholder](Images/Architecture.png)
-
 ```text
 Raw Dataset
    ↓
@@ -83,7 +81,8 @@ The model follows a **Star Schema** design to optimize query performance and ana
 
 This structure enables robust filter propagation and reusable DAX measures across customer, product, time, and geography lenses.
 
-![Star Schema Placeholder](Images/StarSchema.png)
+![Star Schema Placeholder](<img width="1556" height="707" alt="Model" src="https://github.com/user-attachments/assets/476dc507-b719-4d3b-a931-e5d48f4cdc3c" />
+)
 
 For details: [Data Model Documentation](docs/Data_Model.md)
 
@@ -290,7 +289,7 @@ For full details: [Lessons Learned](docs/Lessons_Learned.md)
 |---|---|
 | **Name** | Amr Basha |
 | **Professional Title** | Microsoft Certified Power BI Data Analyst (PL-300) \| Business Intelligence Developer \| Data Analyst |
-| **LinkedIn** | [LinkedIn Profile](https://www.linkedin.com/in/amr-basha/) |
-| **Email** | azabbayoumy@gmail.com |
+| **LinkedIn** | [LinkedIn Profile](https://www.linkedin.com/in/amr-basha-552912289/) |
+| **Email** | amrbayoumybasha@gmail.com |
 
 If you'd like, I can also provide a recruiter-optimized one-page project brief version for job applications.
