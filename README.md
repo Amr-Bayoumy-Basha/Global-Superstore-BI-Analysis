@@ -81,8 +81,8 @@ The model follows a **Star Schema** design to optimize query performance and ana
 
 This structure enables robust filter propagation and reusable DAX measures across customer, product, time, and geography lenses.
 
-![Star Schema Placeholder](<img width="1556" height="707" alt="Model" src="https://github.com/user-attachments/assets/476dc507-b719-4d3b-a931-e5d48f4cdc3c" />
-)
+<img width="1556" height="707" alt="Model" src="https://github.com/user-attachments/assets/599c2b59-587f-47ff-abf5-7a8575f02eff" />
+
 
 For details: [Data Model Documentation](docs/Data_Model.md)
 
@@ -94,7 +94,7 @@ For details: [Data Model Documentation](docs/Data_Model.md)
 - **Purpose:** Establish report scope, KPIs, and analytical context.
 - **Business Value:** Align stakeholders before deep-dive analysis.
 - **Screenshot:**
-  ![Introduction Dashboard](1-Introduction.png)
+  ![Introduction Dashboard](1-Introduction.jpg)
 
 ### 2) Executive Overview
 - **Purpose:** Provide high-level trends for sales, profit, and key performance signals.
