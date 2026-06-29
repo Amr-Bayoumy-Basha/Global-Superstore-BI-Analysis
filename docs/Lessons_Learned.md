@@ -28,10 +28,4 @@
 4. **Portfolio decisions require multi-metric views**
    - Profit-only ranking misses risk and scale dimensions.
 
-## Portfolio Lessons
 
-- Recruiters scan for clarity and role relevance in seconds.
-- Hiring managers evaluate business impact framing quickly.
-- Senior reviewers want reproducible logic and structured documentation.
-
-Balancing these three audiences is essential for a high-performing GitHub portfolio repository.
