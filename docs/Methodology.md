@@ -42,8 +42,4 @@ This project was executed as a consulting-style BI workflow:
 - Ensured metric definitions remain stable across report pages.
 - Reviewed edge-case behavior for partial periods in time intelligence measures.
 
-## Why This Methodology Improves Portfolio Quality
 
-- Communicates analytical maturity beyond visualization.
-- Shows ability to link BI outputs to business decisions.
-- Mirrors enterprise project execution patterns used in BI teams.
