@@ -214,25 +214,19 @@ Global-Superstore-BI-Analysis/
 │       ├── ProductRanking.md
 │       ├── TimeIntelligence.md
 │       └── KPICards.md
-├── Images/
-│   ├── Architecture.png
-│   ├── StarSchema.png
-│   ├── Dashboard1.png
-│   └── Dashboard2.png
-├── Dataset/
-│   └── Globa_Superstore.xlsx
-├── PBIX/
-│   └── Global_Superstore.pbix
-├── SQL/
-│   └── README.md
-├── LICENSE
 ├── 1-Introduction.png
 ├── 2-Overview.png
 ├── 3-PageInfo.png
 ├── 4-Customers Analysis.png
 ├── 5-Products Analysis.png
 ├── 6-Insights and Recomendations.png
-└── 7-Customer Details .png
+├── 7-Customer Details .png
+├── Dataset/
+│   └── Globa_Superstore.xlsx
+├── PBIX/
+│   └── Global_Superstore.pbix
+├── LICENSE
+
 ```
 
 
