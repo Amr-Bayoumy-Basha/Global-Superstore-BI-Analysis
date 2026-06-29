@@ -84,8 +84,8 @@ This structure enables robust filter propagation and reusable DAX measures acros
 <img width="1556" height="707" alt="Model" src="https://github.com/user-attachments/assets/599c2b59-587f-47ff-abf5-7a8575f02eff" />
 
 
-For details: [Data Model Documentation](docs/Data_Model.md)
-DAX : [Semantic Model Dax Calculation](docs.Dax)
+- For details: [Data Model Documentation](docs/Data_Model.md)
+- DAX : [Semantic Model Dax Calculation](docs.Dax)
    - [Customer Analytics](CustomerAnalytics.md)
    - [KPI Cards](KPICards.md)
    - [Pareto Calculations](Pareto.md)
