@@ -85,6 +85,12 @@ This structure enables robust filter propagation and reusable DAX measures acros
 
 
 For details: [Data Model Documentation](docs/Data_Model.md)
+DAX : [Semantic Model Dax Calculation](docs.Dax)
+   - [Customer Analytics](CustomerAnalytics.md)
+   - [KPI Cards](KPICards.md)
+   - [Pareto Calculations](Pareto.md)
+   - [Product Ranking](ProductRanking.md)
+   - [Time Intelligence](TimeIntelligence.md)
 
 ---
 
