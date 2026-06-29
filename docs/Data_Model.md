@@ -4,6 +4,8 @@
 
 The project uses a Star Schema to separate transactional events from descriptive attributes.
 
+
+
 ## Fact Table
 
 ### `Fact_Sales`
@@ -45,9 +47,3 @@ Primary transactional table containing:
 - Star Schema improves scan efficiency versus flat denormalized models.
 - Dimension conformance increases measure reusability.
 - Explicit modeling improves debugging and onboarding for reviewers.
-
-## Suggested Additions
-
-- Add a model screenshot to `Images/StarSchema.png` and link it in README.
-- Add data dictionary appendix for each modeled field.
-- Add relationship cardinality table (One-to-Many, active/inactive links).
