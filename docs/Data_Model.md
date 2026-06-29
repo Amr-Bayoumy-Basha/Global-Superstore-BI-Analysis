@@ -4,6 +4,7 @@
 
 The project uses a Star Schema to separate transactional events from descriptive attributes.
 
+<img width="1556" height="707" alt="ImagesStarSchema png" src="https://github.com/user-attachments/assets/0cfdbe6a-a975-4ce8-99ec-24ba0d37c560" />
 
 
 ## Fact Table
@@ -29,7 +30,7 @@ Primary transactional table containing:
 - Product/category-level attributes.
 - Supports weighted ranking, contribution, and return analysis.
 
-### `Dim_Geography`
+### `Dim_Country`
 - Country/region-level slicing for geographic performance comparisons.
 
 ### Supporting Dimensions
