@@ -76,7 +76,7 @@ The model follows a **Star Schema** design to optimize query performance and ana
   - `Dim_Date`
   - `Dim_Customer`
   - `Dim_Product`
-  - `Dim_Geography`
+  - `Dim_Country`
   - Supporting dimensions for return status and segmentation
 
 This structure enables robust filter propagation and reusable DAX measures across customer, product, time, and geography lenses.
@@ -186,7 +186,6 @@ For details: [Data Model Documentation](docs/Data_Model.md)
 | Data Preparation | Power Query (M) | Cleansing, shaping, transformation |
 | Analytical Language | DAX | KPIs, time intelligence, ranking, CLV/churn logic |
 | Source Data | Excel | Input dataset |
-| Query Language | SQL (foundational) | Data extraction and relational thinking |
 | Modeling | Star Schema | Scalable analytics architecture |
 | Domain | Business Analytics | Strategic KPI framing |
 | Domain | Customer Analytics | CLV, churn, retention, cohorts |
@@ -230,7 +229,6 @@ Global-Superstore-BI-Analysis/
 └── 7-Customer Details .png
 ```
 
-> Note: Current dashboard images and core artifacts remain in place. The structure above represents the target professional organization and documentation map.
 
 ---
 
@@ -266,7 +264,6 @@ What makes this project stronger than a standard dashboard build:
 - Strong BI outcomes depend on both **semantic model design** and **business framing**, not visuals alone.
 - Churn and return behavior can materially alter the interpretation of top-line growth.
 - Weighted metrics are often more reliable than single-metric ranking for product decisions.
-- Documentation quality significantly improves stakeholder trust, maintainability, and hiring signal.
 
 For full details: [Lessons Learned](docs/Lessons_Learned.md)
 
