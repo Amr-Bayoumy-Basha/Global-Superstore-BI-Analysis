@@ -49,16 +49,3 @@ Insights & Recommendations (Decision Layer)
 - Findings translated into strategic options with priorities.
 - Action framing based on risk, return, and implementation complexity.
 
-## Suggested Diagram Improvements
-
-To improve portfolio credibility, add:
-
-1. **Architecture diagram** showing each layer and data flow arrows.
-2. **Model diagram snapshot** from Power BI model view.
-3. **KPI dependency map** showing relationships between base and derived measures.
-
-## Why This Matters for Hiring Reviewers
-
-- Demonstrates full-stack BI delivery capability (from data prep to executive recommendations).
-- Shows architectural thinking beyond dashboard design.
-- Communicates maintainability and semantic modeling discipline.
